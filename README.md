@@ -7,12 +7,19 @@ The stack of technologies that I have mastered at the moment (to a greater or le
 ●	Java 
 
 ●	HTML, CSS
+
 ●	MySQL
 
 ●	JDBC, ORM Hibernate
+
 ●	Multithreading, ForkJoinPool
+
 ●	Redis, MongoDB
+
 ●	Docker
+
 ●	REST API
+
 ●	Spring Boot
+
 ●	Thymeleaf
