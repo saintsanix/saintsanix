@@ -4,9 +4,11 @@ I decided to become a programmer in 2020. I started learning the Java programmin
 
 The stack of technologies that I have mastered at the moment (to a greater or lesser extent) :
 
-●	Java
+●	Java 
+
 ●	HTML, CSS
 ●	MySQL
+
 ●	JDBC, ORM Hibernate
 ●	Multithreading, ForkJoinPool
 ●	Redis, MongoDB
